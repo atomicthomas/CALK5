@@ -14,6 +14,9 @@
 		61A6A3FA1DF9291C00EDCFE9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 61A6A3F81DF9291C00EDCFE9 /* LaunchScreen.storyboard */; };
 		61A6A4051DF9291C00EDCFE9 /* CALK5Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61A6A4041DF9291C00EDCFE9 /* CALK5Tests.swift */; };
 		61A6A4101DF9291C00EDCFE9 /* CALK5UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61A6A40F1DF9291C00EDCFE9 /* CALK5UITests.swift */; };
+		61A6A41E1DF929D100EDCFE9 /* Minecraft.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 61A6A41D1DF929D100EDCFE9 /* Minecraft.ttf */; };
+		61A6A41F1DF929D100EDCFE9 /* Minecraft.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 61A6A41D1DF929D100EDCFE9 /* Minecraft.ttf */; };
+		61A6A4201DF929D100EDCFE9 /* Minecraft.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 61A6A41D1DF929D100EDCFE9 /* Minecraft.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +50,7 @@
 		61A6A40B1DF9291C00EDCFE9 /* CALK5UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CALK5UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		61A6A40F1DF9291C00EDCFE9 /* CALK5UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CALK5UITests.swift; sourceTree = "<group>"; };
 		61A6A4111DF9291C00EDCFE9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		61A6A41D1DF929D100EDCFE9 /* Minecraft.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Minecraft.ttf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +101,7 @@
 		61A6A3EE1DF9291C00EDCFE9 /* CALK5 */ = {
 			isa = PBXGroup;
 			children = (
+				61A6A41D1DF929D100EDCFE9 /* Minecraft.ttf */,
 				61A6A3EF1DF9291C00EDCFE9 /* AppDelegate.swift */,
 				61A6A3F11DF9291C00EDCFE9 /* ViewController.swift */,
 				61A6A3F31DF9291C00EDCFE9 /* Main.storyboard */,
@@ -237,6 +242,7 @@
 			files = (
 				61A6A3FA1DF9291C00EDCFE9 /* LaunchScreen.storyboard in Resources */,
 				61A6A3F71DF9291C00EDCFE9 /* Assets.xcassets in Resources */,
+				61A6A41E1DF929D100EDCFE9 /* Minecraft.ttf in Resources */,
 				61A6A3F51DF9291C00EDCFE9 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -245,6 +251,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				61A6A41F1DF929D100EDCFE9 /* Minecraft.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -252,6 +259,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				61A6A4201DF929D100EDCFE9 /* Minecraft.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
